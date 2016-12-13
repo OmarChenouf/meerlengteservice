@@ -1,0 +1,21 @@
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+#######
+# API #
+#######
+target/
+datanucleus.log
+.DS_Store
+out
+*.iml
+*.ipr
+*.iws
+*.log
+.idea
+.settings
+.classpath
+.project
